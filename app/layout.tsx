@@ -12,7 +12,7 @@ const serif = Libre_Baskerville({
 });
 
 const retro = localFont({
-    src: 'fonts/PrintChar21.woff2',
+    src: 'fonts/kreative-korp/PrintChar21.woff2',
     variable: '--font-retro',
     display: 'swap',
 });
